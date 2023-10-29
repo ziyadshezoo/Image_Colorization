@@ -1,5 +1,5 @@
 # Image_Colorization
-![Alt Colorization]([image link](https://learnopencv.com/wp-content/uploads/2018/07/colorization-example.png))
+![Alt Colorization](https://learnopencv.com/wp-content/uploads/2018/07/colorization-example.png)
 
 This project is our final project in Samsung Innovation Campus - AI 502 Scholarship . our project colorize gray scale image.
 we use two models in deep learning to make this project ,AutoEncoder & GANs.
